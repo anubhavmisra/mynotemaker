@@ -1,4 +1,5 @@
 # mynotemaker
+This simple apps allows you to create notes. This is an admin dashboard for the notes backend.
 This application was generated using JHipster 4.6.0, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.6.0](https://jhipster.github.io/documentation-archive/v4.6.0).
 
 ## Development
