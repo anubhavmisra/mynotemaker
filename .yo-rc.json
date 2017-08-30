@@ -43,6 +43,7 @@
         "version": "0.1.3"
       }
     ],
-    "enableTranslation": false
+    "enableTranslation": false,
+    "herokuAppName": "mynotemaker"
   }
 }
