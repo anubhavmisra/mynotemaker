@@ -1,0 +1,9 @@
+version: '2'
+services:
+    mynotemaker-elasticsearch:
+        image: elasticsearch:2.4.1
+        # volumes:
+        #     - ~/volumes/jhipster/mynotemaker/elasticsearch/:/usr/share/elasticsearch/data/
+        ports:
+            - 9200:9200
+            - 9300:9300
